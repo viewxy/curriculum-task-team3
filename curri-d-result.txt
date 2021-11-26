@@ -1,0 +1,52 @@
+      student      |          project_name           |     reviewer      | mark |                       comment                        
+-------------------+---------------------------------+-------------------+------+------------------------------------------------------
+ Csin Csilla       | Introduction to SQL             | Palacsinta Jolán |    4 | Ejjde jó lett
+ Csin Csilla       | Curriculum                      | Palacsinta Jolán |    5 | Végére javítottál
+ Csin Csilla       | Northwind Traders               | Palacsinta Jolán |    4 | Thumbs up
+ Csin Csilla       | TodoDB.sql                      | Palacsinta Jolán |    5 | Naugye hogy megy
+ Csin Csilla       | Project Codewars - 7 kyu in SQL | Palacsinta Jolán |    2 | Ez egyre rosszabb
+ Csin Csilla       | Setup PostgreSQL                | Palacsinta Jolán |    3 | No nem baj
+ Ebéd Elek        | Northwind Traders               | Koaxk Ábel       |    5 | Mikulás hozta ajándékba
+ Ebéd Elek        | TodoDB.sql                      | Koaxk Ábel       |    2 | nem ügyi
+ István Márton   | Project Codewars - 7 kyu in SQL | Weisz Dávid      |    2 | Nem tudom hogy, de sikerült neki
+ István Márton   | TodoDB.sql                      | Weisz Dávid      |    2 | Hát kicsit buggos lett de nem szar
+ István Márton   | Curriculum                      | Weisz Dávid      |    1 | Nem tetszik a diagrammja
+ István Márton   | Northwind Traders               | Weisz Dávid      |    3 | Hát ez ízi volt
+ István Márton   | Introduction to SQL             | Weisz Dávid      |    1 | Hát ez ÉRTÉKELHETETLEN
+ István Márton   | Setup PostgreSQL                | Weisz Dávid      |    3 | Műkszik
+ Koaxk Ábel       | TodoDB.sql                      | Ebéd Elek        |    2 | huh
+ Koaxk Ábel       | Northwind Traders               | Ebéd Elek        |    5 | ügyi
+ Lentvorszki Éva  | Project Codewars - 7 kyu in SQL | Szarka Vivien     |    4 | Tudja ő csak néha felejt, lámpaláz
+ Lentvorszki Éva  | Setup PostgreSQL                | Szarka Vivien     |    5 | Már régóta használja
+ Lentvorszki Éva  | TodoDB.sql                      | Szarka Vivien     |    4 | Mintha a bevásárlólistát is ebben írná
+ Lentvorszki Éva  | Introduction to SQL             | Szarka Vivien     |    4 | Megy ez neki
+ Lentvorszki Éva  | Curriculum                      | Szarka Vivien     |    5 | Gyönyörű adat architektúrákat épít
+ Lentvorszki Éva  | Northwind Traders               | Szarka Vivien     |    3 | Összehozta ez a lényeg
+ Meg Győző       | Introduction to SQL             | Riz Ottó         |    4 | Elfáradtam
+ Meg Győző       | Setup PostgreSQL                | Riz Ottó         |    5 | mindjárt vége
+ Palacsinta Jolán | Project Codewars - 7 kyu in SQL | Csin Csilla       |    3 | Hát ez ízi volt
+ Palacsinta Jolán | TodoDB.sql                      | Csin Csilla       |    5 | Hát ő egy varázsló
+ Palacsinta Jolán | Northwind Traders               | Csin Csilla       |    2 | Nem tudom hogy, de sikerült neki
+ Palacsinta Jolán | Curriculum                      | Csin Csilla       |    5 | Teljesen működőképes
+ Palacsinta Jolán | Introduction to SQL             | Csin Csilla       |    1 | Nem tetszik a diagrammja
+ Palacsinta Jolán | Setup PostgreSQL                | Csin Csilla       |    4 | Tudja ő csak néha felejt, lámpaláz
+ Riz Ottó         | Introduction to SQL             | Meg Győző       |    1 | mindenhonnan kihagytatd a vesszőket
+ Riz Ottó         | Setup PostgreSQL                | Meg Győző       |    4 | mintha nem lenne konzisztens a dátum
+ Szarka Vivien     | Project Codewars - 7 kyu in SQL | Lentvorszki Éva  |    5 | Elérte
+ Szarka Vivien     | Northwind Traders               | Lentvorszki Éva  |    2 | Format c:
+ Szarka Vivien     | Curriculum                      | Lentvorszki Éva  |    5 | 5* - Hála nekik meglettek csinálva az adatbázisok
+ Szarka Vivien     | Setup PostgreSQL                | Lentvorszki Éva  |    5 | Teljesen működőképes
+ Szarka Vivien     | Introduction to SQL             | Lentvorszki Éva  |    3 | Érti
+ Szarka Vivien     | TodoDB.sql                      | Lentvorszki Éva  |    4 | Fasza
+ Weisz Dávid      | Northwind Traders               | István Márton   |    5 | Hát ő egy varázsló
+ Weisz Dávid      | Setup PostgreSQL                | István Márton   |    5 | Hát ő egy varázsló
+ Weisz Dávid      | TodoDB.sql                      | István Márton   |    5 | Hát ő egy varázsló
+ Weisz Dávid      | Introduction to SQL             | István Márton   |    5 | Hát ő egy varázsló
+ Weisz Dávid      | Project Codewars - 7 kyu in SQL | István Márton   |    5 | Hát ő egy varázsló
+ Weisz Dávid      | Curriculum                      | István Márton   |    5 | Hát ő egy varázsló
+ Wincs Eszter      | TodoDB.sql                      | Zsíros B. Ödön |    2 | Tied se sokkal jobb
+ Wincs Eszter      | Northwind Traders               | Zsíros B. Ödön |    5 | Taníts mester
+ Zsíros B. Ödön | TodoDB.sql                      | Wincs Eszter      |    1 | jujj
+ Zsíros B. Ödön | Northwind Traders               | Wincs Eszter      |    3 | áá hagyjuk
+(48 rows)
+

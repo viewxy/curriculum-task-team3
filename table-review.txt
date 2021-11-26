@@ -1,0 +1,52 @@
+ review_id | student_id | project_id | reviewer_id |    when    | mark |                       comment                        
+-----------+------------+------------+-------------+------------+------+------------------------------------------------------
+         1 |          1 |          1 |           3 | 2021-11-22 |    1 | Hát ez ÉRTÉKELHETETLEN
+         2 |          2 |          3 |           4 | 2021-11-19 |    5 | Elérte
+         3 |          2 |          4 |           4 | 2021-11-19 |    4 | Fasza
+         4 |          2 |          1 |           4 | 2021-11-19 |    3 | Érti
+         5 |          4 |          2 |           2 | 2021-11-19 |    5 | Már régóta használja
+         6 |          4 |          4 |           2 | 2021-11-19 |    4 | Mintha a bevásárlólistát is ebben írná
+         7 |          4 |          3 |           2 | 2021-11-19 |    4 | Tudja ő csak néha felejt, lámpaláz
+         8 |          2 |          2 |           4 | 2021-11-19 |    5 | Teljesen működőképes
+         9 |          4 |          1 |           2 | 2021-11-19 |    4 | Megy ez neki
+        10 |          3 |          2 |           1 | 2021-11-22 |    5 | Hát ő egy varázsló
+        11 |          3 |          4 |           1 | 2021-11-22 |    5 | Hát ő egy varázsló
+        12 |          3 |          1 |           1 | 2021-11-22 |    5 | Hát ő egy varázsló
+        13 |          3 |          3 |           1 | 2021-11-22 |    5 | Hát ő egy varázsló
+        14 |          2 |          6 |           4 | 2021-11-26 |    5 | 5* - Hála nekik meglettek csinálva az adatbázisok
+        15 |          1 |          2 |           3 | 2021-11-26 |    3 | Műkszik
+        16 |          1 |          3 |           3 | 2021-11-26 |    2 | Nem tudom hogy, de sikerült neki
+        17 |          2 |          5 |           4 | 2021-11-26 |    2 | Format c:
+        18 |          1 |          4 |           3 | 2021-11-26 |    2 | Hát kicsit buggos lett de nem szar
+        19 |          1 |          6 |           3 | 2021-11-26 |    1 | Nem tetszik a diagrammja
+        20 |          3 |          5 |           1 | 2021-11-26 |    5 | Hát ő egy varázsló
+        21 |          1 |          5 |           3 | 2021-11-26 |    3 | Hát ez ízi volt
+        22 |          4 |          6 |           2 | 2021-11-26 |    5 | Gyönyörű adat architektúrákat épít
+        23 |          4 |          5 |           2 | 2021-11-26 |    3 | Összehozta ez a lényeg
+        24 |          3 |          6 |           1 | 2021-11-26 |    5 | Hát ő egy varázsló
+        25 |          5 |          7 |           6 | 2021-11-26 |    1 | Nem tetszik a diagrammja
+        26 |          5 |          8 |           6 | 2021-11-19 |    4 | Tudja ő csak néha felejt, lámpaláz
+        27 |          5 |          9 |           6 | 2021-11-26 |    3 | Hát ez ízi volt
+        28 |          5 |         10 |           6 | 2021-11-22 |    5 | Hát ő egy varázsló
+        29 |          5 |         11 |           6 | 2021-11-26 |    2 | Nem tudom hogy, de sikerült neki
+        30 |          5 |         12 |           6 | 2021-11-19 |    5 | Teljesen működőképes
+        31 |          6 |          7 |           5 | 2021-11-19 |    4 | Ejjde jó lett
+        32 |          6 |          8 |           5 | 2021-03-05 |    3 | No nem baj
+        33 |          6 |          9 |           5 | 2019-02-13 |    2 | Ez egyre rosszabb
+        34 |          6 |         10 |           5 | 2016-03-26 |    5 | Naugye hogy megy
+        35 |          6 |         11 |           5 | 2006-03-11 |    4 | Thumbs up
+        36 |          6 |         12 |           5 | 2019-09-09 |    5 | Végére javítottál
+        37 |          7 |         13 |           8 | 2018-06-30 |    1 | jujj
+        38 |          7 |         14 |           8 | 2021-03-02 |    3 | áá hagyjuk
+        39 |          8 |         13 |           7 | 2019-07-01 |    2 | Tied se sokkal jobb
+        40 |          8 |         14 |           7 | 2012-02-03 |    5 | Taníts mester
+        41 |          9 |         15 |          10 | 2021-04-05 |    4 | Elfáradtam
+        42 |          9 |         16 |          10 | 2021-03-25 |    5 | mindjárt vége
+        43 |         10 |         15 |           9 | 2021-11-05 |    1 | mindenhonnan kihagytatd a vesszőket
+        44 |         10 |         16 |           9 | 2021-05-05 |    4 | mintha nem lenne konzisztens a dátum
+        45 |         11 |         17 |          12 | 2021-03-05 |    2 | huh
+        46 |         11 |         18 |          12 | 2021-12-15 |    5 | ügyi
+        47 |         12 |         17 |          11 | 2021-03-03 |    2 | nem ügyi
+        48 |         12 |         18 |          11 | 2021-12-06 |    5 | Mikulás hozta ajándékba
+(48 rows)
+

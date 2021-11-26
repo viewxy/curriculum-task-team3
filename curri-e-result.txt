@@ -1,0 +1,16 @@
+       name        | avg | percent |       result        
+-------------------+-----+---------+---------------------
+ Weisz D√°vid      |   5 |     100 | Halad¢
+ Meg Gy≈ëz≈ë       |   5 |      90 | Halad¢
+ Lentvorszki √âva  |   4 |      83 | Halad¢
+ Szarka Vivien     |   4 |      80 | Halad¢
+ Csin Csilla       |   4 |      77 | Halad¢
+ Eb√©d Elek        |   4 |      70 | Halad¢
+ Koaxk √Åbel       |   4 |      70 | Halad¢
+ Wincs Eszter      |   4 |      70 | Halad¢
+ Palacsinta Jol√°n |   3 |      67 | Halad¢
+ Riz Ott√≥         |   3 |      50 | Megfontoltan halad¢
+ Istv√°n M√°rton   |   2 |      40 | Megfontoltan halad¢
+ Zs√≠ros B. √ñd√∂n |   2 |      40 | Megfontoltan halad¢
+(12 rows)
+

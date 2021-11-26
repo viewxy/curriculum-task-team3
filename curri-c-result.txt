@@ -1,0 +1,32 @@
+ course | student_id |       name       |          hobby           |      important_info       
+--------+------------+------------------+--------------------------+---------------------------
+ TST01  |          1 | István Márton  | Gitár                   | Szereti a sütit
+ TST01  |          2 | Szarka Vivien    | 3D nyomtatás            | Van két zebra pintye
+ TST01  |          3 | Weisz Dávid     | Időjárás megfigyelés | Varázsló szeretne lenni
+ TST01  |          4 | Lentvorszki Éva | titkosított             | titkosított
+(4 rows)
+
+ course | student_id |       name        |        hobby        |                important_info                
+--------+------------+-------------------+---------------------+----------------------------------------------
+ TST02  |          5 | Palacsinta Jolán | Borászat           | A tokaji szőlőhegyen két szál vessző...
+ TST02  |          6 | Csin Csilla       | Természetfotózás | Nagy állatbarát
+(2 rows)
+
+ course | student_id |       name        |    hobby    |             important_info              
+--------+------------+-------------------+-------------+-----------------------------------------
+ BCK01  |          7 | Zsíros B. Ödön | Aerobik     | Kedvence a zsírosdeszka lilahagymával
+ BCK01  |          8 | Wincs Eszter      | Informatika | Már az apja is informatikus volt
+(2 rows)
+
+ course | student_id |    name     |  hobby   |                 important_info                 
+--------+------------+-------------+----------+------------------------------------------------
+ FRT01  |          9 | Meg Győző | Politika | NEM nagyon kígyó, a zebra mintát is utálja
+ FRT01  |         10 | Riz Ottó   | Főzés  | A főzésre született
+(2 rows)
+
+ course | student_id |    name     |             hobby              |               important_info                
+--------+------------+-------------+--------------------------------+---------------------------------------------
+ SYS01  |         11 | Koaxk Ábel | Kapcsolat szakértő           | 15m, F csatlakozóval, kábelrögzítőkkel
+ SYS01  |         12 | Ebéd Elek  | azt hitted a főzés? hát nem | Ő csinálja a legjobb mikrós popcornt
+(2 rows)
+

@@ -1,0 +1,16 @@
+ student_id |       name        |     nickname     | course_id | join_date  |        city        |             hobby              |          email          |                     other                      
+------------+-------------------+------------------+-----------+------------+--------------------+--------------------------------+-------------------------+------------------------------------------------
+          1 | István Márton   | Marci            | TST01     | 2021-08-11 | Pomáz             | Gitár                         | marciistvan45@gmail.com | Szereti a sütit
+          2 | Szarka Vivien     | Vivi             | TST01     | 2021-08-11 | Miskolc            | 3D nyomtatás                  | kalna.vivien@gmail.com  | Van két zebra pintye
+          3 | Weisz Dávid      | Dávid           | TST01     | 2021-08-11 | Kóka              | Időjárás megfigyelés       | yaraclen@gmail.com      | Varázsló szeretne lenni
+          4 | Lentvorszky Éva  | Évi             | TST01     | 2021-08-11 | titkosított       | titkosított                   | titkosított            | titkosított
+          5 | Palacsinta Jolán | PaliJoli         | TST02     | 2020-06-15 | Tokaj              | Borászat                      | palijoli@email.com      | A tokaji szőlőhegyen két szál vessző...
+          6 | Csin Csilla       | Csillu           | TST02     | 2001-08-10 | Vatta              | Természetfotózás            | csilluka@email.com      | Nagy állatbarát
+          7 | Zsíros B. Ödön | Bödön          | BCK01     | 2020-06-15 | Apácatorna        | Aerobik                        | zsirosbodon@email.com   | Kedvence a zsírosdeszka lilahagymával
+          8 | Wincs Eszter      | Vinyó           | BCK01     | 2039-08-05 | Rásonysápberencs | Informatika                    | vinyoka99@email.com     | Már az apja is informatikus volt
+          9 | Meg Győző       | Győzike         | FRT01     | 2000-01-01 | Pókaszepetk       | Politika                       | gyozo@email.com         | NEM nagyon kígyó, a zebra mintát is utálja
+         10 | Riz Ottó         | Tészta nemvót? | FRT01     | 2015-09-01 | Iklódbördőce    | Főzés                        | teszta@email.com        | A főzésre született
+         11 | Koaxk Ábel       | Kábel           | SYS01     | 1998-03-20 | Makkoshotyka       | Kapcsolat szakértő           | koax@email.com          | 15m, F csatlakozóval, kábelrögzítőkkel
+         12 | Ebéd Elek        | Elek             | SYS01     | 2013-10-02 | Sonkád            | azt hitted a főzés? hát nem | elekelek@email.com      | Ő csinálja a legjobb mikrós popcornt
+(12 rows)
+

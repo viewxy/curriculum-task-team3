@@ -1,0 +1,9 @@
+ course_id |   course_description   
+-----------+------------------------
+ TST01     | Tester morning group
+ TST02     | Tester afternoon group
+ BCK01     | Backend group
+ FRT01     | Frontend group
+ SYS01     | Sysadmin group
+(5 rows)
+
